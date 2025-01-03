@@ -1,6 +1,7 @@
 # Forescout-Technologies-Python-Scripting-Example
 **A basic example of python scripting**
 
+
 Hello, and welcome to my python scripting project.
 
 The python script, contained in get_info_data.py, searches the given directory, in this case /data, and looks for sub-directories 
